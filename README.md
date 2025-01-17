@@ -40,6 +40,7 @@ Technologies Used:
 • Database Management Systems: MySQL, PostgreSQL
 
 • Tools: 
+
 o mysqldump for exporting MySQL data and schema.
 
 o psql for importing data and executing queries in PostgreSQL.
